@@ -1,2 +1,15 @@
-# Web3-Growth-Strategies
-Web3-Growth-Strategies
+# Web3 Growth Strategies (Web3 社区增长策略)
+
+本仓库用于记录和分析去中心化项目如何进行社区建设、代币分发（Airdrop Design）和市场营销。
+
+本仓库旨在：
+1. 追踪成功的空投模型和女巫检测方法。
+2. 收集高质量的社区增长黑客（Growth Hacks）。
+
+---
+
+## 📊 查看每日增长策略分析
+
+所有最新的市场策略和社区分析都记录在以下文件中：
+
+**👉 点击这里查看 [LINKS.md](./LINKS.md)**
